@@ -8,4 +8,7 @@ public class user {
         System.out.println("321");
         System.out.println(322111);
     }
+    //1234567890
+	public void aaa(){
+}
 }
